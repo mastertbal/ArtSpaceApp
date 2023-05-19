@@ -1,5 +1,5 @@
 # ArtSpaceApp
-This is the first android personal project assignment from the Android Basics with compose course. 
+This is the ArtSpaceApp project assignment solution from the Android Basics with Compose course. 
 The ArtSpaceApp is an android app with more than one art images(10 in this case) that can be displayed on the screen.
 When the app is launched, an art image is displayed on the screen. 
 The app has a previous and next buttons to display the previous or next art image.
